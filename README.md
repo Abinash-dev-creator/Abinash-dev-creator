@@ -1,12 +1,12 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Abinash Ray
+# 👋 Hey, I'm Abinash
 
-### 🚀 AI Engineer • Full Stack Developer • Open Source Builder • Hackathon Enthusiast
+### 🐍 Python Backend Engineer • 🤖 AI Automation Builder • ☁️ FastAPI & n8n Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=6A5AF9&center=true&vCenter=true&width=700&lines=Building+AI+Products;Open+Source+Contributor;Hackathon+Builder;Full+Stack+Developer;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=6A5AF9&center=true&vCenter=true&width=700&lines=Building+AI+Automation+Workflows;FastAPI+%2B+PostgreSQL+Backend+Dev;n8n+%2B+LLM+Integrations;Always+Shipping+Something+New"/>
 
-<img src="https://komarev.com/ghpvc/?username=Arpitapaaul&style=for-the-badge&color=6A5AF9">
+<img src="https://komarev.com/ghpvc/?username=Abinash-dev-creator&style=for-the-badge&color=6A5AF9">
 
 </div>
 
@@ -18,26 +18,22 @@
 const abinash = {
     location: "India 🇮🇳",
 
-    role: "AI & Full Stack Developer",
+    role: "Python Backend & AI Automation Engineer",
 
-    learning: [
-        "LLMs",
-        "Agentic AI",
-        "Cloud",
-        "Blockchain"
-    ],
+    education: "CSE Undergrad, Sister Nivedita University (2023–2027)",
 
     currentlyBuilding: [
-        "Nexora AI",
-        "AI Automation",
-        "Open Source Projects"
+        "AI Sales Roleplay Voice Bot",
+        "n8n Lead Profiling Automation",
+        "Anonymous Feedback Board (Midnight blockchain / ZK)"
     ],
 
     interests: [
+        "AI Agents & Automation",
+        "Backend Systems",
+        "IoT & Embedded Systems",
         "Hackathons",
-        "AI",
-        "Developer Tools",
-        "Startups"
+        "Blockchain / Web3"
     ]
 }
 ```
@@ -46,103 +42,46 @@ const abinash = {
 
 # 🚀 Current Mission
 
-- 🔥 Building AI products that solve real problems
-- 🌎 Contributing to Open Source
-- 🏆 Participating in Global Hackathons
-- 🤝 Looking for Collaborations
-- ❤️ Growing an ecosystem around AI & SaaS products
+- 🔥 Building backend systems with FastAPI + PostgreSQL that actually ship
+- 🤖 Automating workflows end-to-end with n8n + AI categorization
+- 📡 Exploring IoT — connecting sensors and devices to AI-driven backends
+- 🏆 Competed as Top 20 Finalist at GUwahati TechExpo 2025
+- 🔐 Completed a Cyber Security Internship at CESC
+- 🤝 Open to collaborations on AI automation & backend projects
 
 ---
 
 # 🛠 Tech Stack
 
 ## Languages
-
-![JavaScript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)
-
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-
+![JavaScript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
-
----
+## Backend & Data
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
 
 ## Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 
-React
+## AI & Automation
+![n8n](https://img.shields.io/badge/n8n-black?style=for-the-badge&logo=n8n)
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
 
-Next.js
+## DevOps & Infra
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions)
 
-TailwindCSS
-
-Framer Motion
-
-Shadcn UI
-
----
-
-## Backend
-
-Node.js
-
-Express
-
-MongoDB
-
-PostgreSQL
-
-Prisma
-
-Firebase
-
-Supabase
-
----
-
-## AI
-
-OpenAI
-
-Gemini
-
-Hugging Face
-
-LangChain
-
-n8n
-
-Vector Databases
-
----
-
-## DevOps
-
-Docker
-
-GitHub Actions
-
-Render
-
-Vercel
-
-Railway
-
-Cloudflare
-
----
+## IoT
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-black?style=for-the-badge&logo=raspberrypi)
+![Arduino](https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=arduino)
+![MQTT](https://img.shields.io/badge/MQTT-black?style=for-the-badge&logo=mqtt)
 
 ## Blockchain
-
-Aptos
-
-Celo
-
-Flow
-
-Solidity
-
-Hardhat
+![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity)
 
 ---
 
@@ -150,82 +89,25 @@ Hardhat
 
 | Project | Description |
 |----------|-------------|
-| 🚀 Nexora AI | AI-powered automation platform |
-| 🤖 AI Lead Qualification | Intelligent sales automation workflow |
-| 🌱 AI SoilCycle | IoT + AI Smart Agriculture |
-| 💳 KarmaPay | Social Good + Blockchain |
-| 🏥 MediMate | AI Healthcare Assistant |
+| 🤖 AI Sales Roleplay Voice Bot | Python/Streamlit app with ElevenLabs TTS + Anthropic SDK for sales training |
+| 🔁 n8n Lead Profiling Workflow | Form trigger → normalization → AI categorization → Sheets logging → routed emails |
+| 🕵️ Anonymous Feedback Board | Midnight blockchain DApp using zero-knowledge proofs for private feedback |
+| 🔐 AFKRewards | Solidity-based rewards contract |
+| 📚 Flashy-Learner | Flashcard learning app with background music/playlist support |
+
+> *(Swap these for whichever repos you want to spotlight — just make sure the description matches what's actually in the repo's README.)*
 
 ---
 
 # 📈 GitHub Analytics
 
 <p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Arpitapaaul&show_icons=true&theme=tokyonight"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Arpitapaaul&theme=tokyonight"/>
-
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abinash-dev-creator&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Abinash-dev-creator&theme=tokyonight"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpitapaaul&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Arpitapaaul/Arpitapaaul/output/github-contribution-grid-snake-dark.svg">
-
-</p>
-
----
-
-# 🤝 Let's Collaborate
-
-I'm always interested in
-
-✨ Open Source
-
-🚀 Startup Ideas
-
-💡 AI Products
-
-🏆 Hackathons
-
-🤖 Developer Tools
-
----
-
-# ❤️ Sponsor My Work
-
-Building open-source software takes time, infrastructure, and continuous experimentation.
-
-If my projects, repositories, or tutorials have helped you, consider supporting my journey.
-
-Your sponsorship helps me:
-
-- 🚀 Build more open-source AI tools
-- ☁️ Pay for cloud infrastructure & APIs
-- 🧠 Explore cutting-edge AI technologies
-- 📚 Create free educational content
-- ❤️ Continue contributing to the developer community
-
-> Every contribution, big or small, directly supports future projects and keeps them open for everyone.
-
-<p align="center">
-
-<a href="https://github.com/sponsors/YOUR_USERNAME">
-
-<img src="https://img.shields.io/badge/Sponsor_on_GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white">
-
-</a>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abinash-dev-creator&theme=tokyo-night"/>
 </p>
 
 ---
@@ -233,35 +115,15 @@ Your sponsorship helps me:
 # 🌐 Connect With Me
 
 <p align="center">
-
-<a href="YOUR_PORTFOLIO">
-
-Portfolio
-
-</a>
-
-•
-
-<a href="(https://www.linkedin.com/in/abinash-roy-b7457031a/)">
-
-LinkedIn
-
-</a>
-
-•
-
-<a href="mailto:royabinash069@gmail.com">
-
-Email
-
-</a>
-
+<a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+<a href="mailto:YOUR_EMAIL">Email</a>
 </p>
 
 ---
 
 <div align="center">
 
-### ⭐ *"Build things people love. Share them openly. Keep learning."*
+### ⭐ *"Automate the boring stuff. Ship the interesting stuff."*
 
 </div>
