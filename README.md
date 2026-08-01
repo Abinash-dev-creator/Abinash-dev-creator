@@ -1,12 +1,13 @@
 <div align="center">
 
-# 👋 Hey, I'm Abinash
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5AF9,100:C74BAF&height=220&section=header&text=Abinash&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Python%20Backend%20Engineer%20%7C%20AI%20Automation%20Builder&descAlignY=58&descSize=20&animation=fadeIn"/>
 
-### 🐍 Python Backend Engineer • 🤖 AI Automation Builder • ☁️ FastAPI & n8n Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=B892FF&center=true&vCenter=true&width=700&lines=Building+AI+Automation+Workflows;FastAPI+%2B+PostgreSQL+Backend+Dev;n8n+%2B+LLM+Integrations;IoT+%2B+AI+Experiments;Always+Shipping+Something+New"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=6A5AF9&center=true&vCenter=true&width=700&lines=Building+AI+Automation+Workflows;FastAPI+%2B+PostgreSQL+Backend+Dev;n8n+%2B+LLM+Integrations;Always+Shipping+Something+New"/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Abinash-dev-creator&style=for-the-badge&color=6A5AF9">
+<img src="https://komarev.com/ghpvc/?username=Abinash-dev-creator&style=for-the-badge&color=6A5AF9&label=PROFILE+VIEWS">
+<img src="https://img.shields.io/github/followers/Abinash-dev-creator?label=FOLLOWERS&style=for-the-badge&color=8957e5&logo=github&logoColor=white">
 
 </div>
 
